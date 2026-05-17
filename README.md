@@ -8,6 +8,7 @@ Dataset: [Kaggle Online Retail Dataset](https://www.kaggle.com/datasets/ulrikthy
 ---
 
 📌 What It Is
+
 This repository contains a data science pipeline that leverages the standard RFM framework to evaluate customer value. Because retail data typically contains heavy right-skewed distributions (a few high-spending outliers dominating total revenue), this project implements advanced data preprocessing (specifically Log Transformation boundary correction) to ensure stable, behaviorally distinct customer clusters.
 
 # Tech Stack & Libraries Used:
