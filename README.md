@@ -2,6 +2,9 @@
 
 An end-to-end data science and business intelligence project that segments an e-commerce customer base using RFM (Recency, Frequency, Monetary) analytics and unsupervised Machine Learning (K-Means). This project translates raw transaction data into actionable marketing strategies to drive customer retention and maximize lifetime value (CLV).
 
+`CustomerSegmentation.ipynb` - Complete, verified Jupyter Notebook containing data preprocessing, model fitting, and Plotly visualizations.
+Dataset: [Kaggle Online Retail Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset).
+
 ---
 
 📌 What It Is
